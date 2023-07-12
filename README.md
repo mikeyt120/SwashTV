@@ -8,10 +8,10 @@ Swash TV deployment:
 ![Fig_5](https://github.com/mikeyt120/SwashTV/blob/main/Fig_5.jpg)
 
 Distortion corrected and rectified video frame:
-![Fig_6_flip](https://github.com/mikeyt120/SwashTV/blob/main/Fig_6_flip.jpg)
+![Fig_6_flip](https://github.com/mikeyt120/SwashTV/blob/main/Fig_6_flip.png)
 
 Annotated and rotated video frame:
-![Fig_8](https://github.com/mikeyt120/SwashTV/blob/main/Fig_8.jpg)
+![Fig_8](https://github.com/mikeyt120/SwashTV/blob/main/Fig_8.png)
 
 Depth timestack graph:
 ![7_10_swash_tv_07_07_2023_2_11940.0_slomo_1p9_graph](https://github.com/mikeyt120/SwashTV/blob/main/7_10_swash_tv_07_07_2023_2_11940.0_slomo_1p9_graph.png)
