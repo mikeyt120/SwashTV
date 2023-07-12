@@ -1,6 +1,8 @@
 # SwashTV
 SwashTV automated water surface tracing tool
 
+All results from Michael Thompson's PhD thesis are in the 'thesis results' folder. Videos corresponding to the results are available in the following YouTube playlist (https://www.youtube.com/playlist?list=PLJSOHg6_zTjUsTAhVg0pjEFXeCKhVkLDO).
+
 # What does the code do?
 The 'swash_tv_unet_processor.ipynb' script takes a distortion corrected and rectified video (e.g. 7_10_swash_tv_07_07_2023_2_11940.0_slomo_1p9.mp4) and returns a beach slope rotated video with the swash water profile annotated. A csv file of the x,t,z,h data is saved as well as a depth timestack graph.
 
