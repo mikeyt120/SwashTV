@@ -16,4 +16,4 @@ Annotated and rotated video frame:
 ![Fig_8](https://github.com/mikeyt120/SwashTV/blob/main/Fig_8.png)
 
 Depth timestack graph:
-![7_10_swash_tv_07_07_2023_2_11940.0_slomo_1p9_graph](https://github.com/mikeyt120/SwashTV/blob/main/thesis_results/7_10_swash_tv_07_07_2023_2_11940.0_slomo_1p9_graph.png)
+![depth_timestack](https://github.com/mikeyt120/SwashTV/blob/main/thesis_results/7_10_swash_tv_07_07_2023_2_11940.0_slomo_1p9_graph.png)
